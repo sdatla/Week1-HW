@@ -1,4 +1,4 @@
-Week1-HW
+Week1-HW TipCalculator
 ========
 
-TipCalculator
+https://github.com/sdatla/Week1-HW/blob/master/tipcalculator.gif
