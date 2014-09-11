@@ -13,7 +13,6 @@ Completed user stories:
 <li>Optional: Values updates as the user is typing (instead of a tap gesture).</li> 
 </ul>
 
-GIF walkthrough of all required and optional stories:
 <img src="https://github.com/sdatla/Week1-HW/blob/master/tipcalculator.gif" />
 
 -Sneha Datla
